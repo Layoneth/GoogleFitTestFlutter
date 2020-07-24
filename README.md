@@ -2,7 +2,7 @@
 
 At the beginnning the app wil ask permissions to use activity recognizion
 
-<img src="https://giphy.com/gifs/JsoFaEewDurZCGc5dd" width="40" height="40" />
+<img src="https://media.giphy.com/media/JsoFaEewDurZCGc5dd/giphy.gif" width="40" height="40" />
 
 // First video
 
