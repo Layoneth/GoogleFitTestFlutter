@@ -12,4 +12,4 @@ So, the weight, step count and the height will be shown in he screen in a list o
 
 <img src="https://media.giphy.com/media/Zba4oJcVgBPrEipzeU/giphy.gif" />
 
-Finally, mentiont that maybe you will see a kind of bug when you sign out and tap in FitData the is loading, you just have to tap again and it will work. 
+Finally, mentiont that maybe you will see a kind of bug when you sign out and tap in FitData the is loading, you just have to tap again and it will work. And as I used FitKit library, it doesn't support some feature like step counter, so in that case I could research about that and maybe try to it natively.
