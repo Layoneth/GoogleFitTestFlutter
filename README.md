@@ -2,7 +2,7 @@
 
 At the beginnning the app wil ask permissions to use activity recognizion
 
-<img src="https://drive.google.com/file/d/1MDiRXOK6vbPpeF10D8DA6VlZcJqJs_xd/view?usp=sharing" width="40" height="40" />
+<img src="https://drive.google.com/file/d/1MDiRXOK6vbPpeF10D8DA6VlZcJqJs_xd" width="40" height="40" />
 
 // First video
 
