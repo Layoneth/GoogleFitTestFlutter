@@ -3,7 +3,7 @@ import 'package:permission_handler/permission_handler.dart';
 
 class GoogleFitService {
 
-  DateTime _lastSync;
+  DateTime _lastSync = DateTime.now();
 
   get lastSync => _lastSync;
 
